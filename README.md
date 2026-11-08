@@ -4,7 +4,7 @@
 
 δῶμα -- Ancient Greek for house.
 
-Docs -- [methodology](METHODOLOGY.md), [design](DESIGN.md), [choices](CHOICES.md).
+Docs -- [methodology](METHODOLOGY.md), [design](DESIGN.md), [choices](CHOICES.md), [contributing](CONTRIBUTING.md).
 
 > pre-alpha: seeking funding.
 
@@ -130,7 +130,7 @@ Each is addressed in [methodology](METHODOLOGY.md).
 ## Contributing
 See [contributing](CONTRIBUTING.md).
 
-## About (written 10/31/2026)
+## About
 
 I came up with the concept for doma about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for doma. 
 
@@ -151,17 +151,13 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. 
 
-My living costs are low (zero, live with my parents :)), so all funds go directly into the work. 
+My living costs are minimal, so funds go directly into the work. 
 
 Email Me: akhil.muthyala@outlook.com
 
-PS: Just started learning Latin, but looks like I'm swapping to Ancient Greek :/.
-
-### What I'm Up To Right Now (11/05/2026)
+### Right Now
 
 - Applying for grants (main focus).
-- Reading *Scribes and Scholars* and *History of Classical Scholarship*.
-- Learning Ancient Greek.
 - Learning about contemporary tools and approaches. 
 - Brushing up on specific technical skills. 
 - Iterating on doma concept.  
