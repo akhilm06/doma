@@ -149,7 +149,7 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 ### About Me
 
-I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. If funded, I go full time, and if not, I am interviewing, so part time. 
+I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. Funding makes doma my full-time work. 
 
 My living costs are minimal, so funds go directly into the work. 
 
