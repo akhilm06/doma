@@ -46,7 +46,7 @@ Concept art.
 - License: code [MIT](LICENSE), data [CC BY-SA 4.0](LICENSE-DATA)
 
 ## What is doma?
-Much of ancient literature has been lost to history. For example, around 70-90 plays are attributed to Aeschylus. We only have access to seven of them, with the authorship of one, Prometheus Bound, being disputed. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
+Much of ancient literature has been lost to history. For example, around 70-90 plays are attributed to Aeschylus. We only have access to seven of them, with the authorship of one, Prometheus Bound, being disputed. The existence of these lost works is known solely through fragments, quotations, references, et cetera. 
 
 Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: TrGF). A useful analogy is the difference between a book on the industrial revolution and a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
 
