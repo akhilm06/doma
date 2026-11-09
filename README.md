@@ -4,7 +4,7 @@
 
 δῶμα -- Ancient Greek for house.
 
-> pre-alpha: seeking funding.
+> pre-alpha.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -46,7 +46,7 @@ Concept art.
 - License: code [MIT](LICENSE), data [CC BY-SA 4.0](LICENSE-DATA)
 
 ## What is doma?
-Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
+Much of ancient literature has been lost to history. For example, around 70-90 plays are attributed to Aeschylus. We only have access to seven of them, with the authorship of one, Prometheus Bound, being disputed. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
 
 Specialists devote their careers to collecting and annotating this evidence, but what they provide is often dense, paywalled, and generally inaccessible to nonacademics (for example: TrGF). A useful analogy is the difference between a book on the industrial revolution and a Wikipedia article on it -- both serve useful functions, and are in fact complementary.
 
@@ -63,15 +63,18 @@ doma is primarily a conceptual innovation enabled by technological innovation. I
 - Specialist fragment editions: Tragicorum Graecorum Fragmenta (TrGF), Brill's New Jacoby.
   - Dense, narrow, often paywalled or difficult to access, built on years of expert labor.
 - Leipzig Open Fragmentary Texts Series (LOFTS), Digital Fragmenta Historicorum Graecorum (DFHG).
-  - Open digital editions that link fragments to their source texts. 
+  - Open digital editions that link fragments to their source texts. DFHG covers historians, not tragedy.
 - FragTrag (Greek Fragmentary Tragedians Online).
   - Open edition of 45 minor tragedians. 
+  - Licensed CC BY-NC-ND. doma only links, does not reuse.
 - papyri.info, Digital Corpus of Literary Papyri (DCLP).
   - Open papyrus transcriptions. Raw evidence.
 - Ithaca, Aeneas, Vesuvius Challenge.
-  - AI that restores lost text. 
+  - AI that restores or reads damaged ancient text. Adjacent to doma, not the same problem.
 - Lost Plays Database.
-  - doma’s closest analog. doma applies its model to antiquity.
+  - doma’s closest analog, though not in subject (English drama). doma applies its model to antiquity.
+- Matthew Wright, The Lost Plays of Greek Tragedy (Bloomsbury, two volumes).
+  - doma’s closest analog in terms of subject, but in print form. doma provides a robust open data layer and novel form factor.
 - Wikipedia.
   - Strong for famous lost works, otherwise sparse or nonexistent.
     
@@ -125,17 +128,18 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 ### About Me
 
-I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. Funding makes doma my full-time work. 
+I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence.
 
-My living costs are minimal, so funds go directly into the work. I plan to learn Ancient Greek as well, and I'm looking for classicists willing to advise. 
+I plan to learn Ancient Greek as well, and I'm looking for classicists willing to advise. 
 
-For more context, please visit other md files in repository. 
+For more context on doma, please visit other md files in repository. 
 
 Email Me: akhil.muthyala@outlook.com
 
 ### Right Now
 
 - Applying for grants (main focus).
+- Learning and iterating on methodology and month one's data foundations.
 - Learning about contemporary tools and approaches. 
 - Brushing up on specific technical skills. 
 - Iterating on doma concept.  

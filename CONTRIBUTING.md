@@ -6,7 +6,7 @@ Email me here: akhil.muthyala@outlook.com.
 
 ## Submit an issue
 
-Make an issue, and I'll check it out.
+Make an issue, and I'll check it out. If regarding a profile or evidence piece, include its id and source you are validating against.
 
 The more detail I get, the easier and faster it is for me to act on it.
 
