@@ -115,6 +115,10 @@ See [methodology](METHODOLOGY.md).
   - Timeline and shelf format.
   - Frames: preset filters of ING users can explore.
   - Community can submit evidence and receive recognition for contribution.
+- Long term goals:
+  - Hand doma off to an institution that can sustain it.
+  - Be used by real people: autodidacts, students, and professors.
+  - Enable new insights and novel digital humanities research.
 
 ## Main Risks
 - Fragment epistemology.
