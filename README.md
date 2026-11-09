@@ -39,11 +39,12 @@
 Concept art.
 
 ## Documentation
-- Methodology: [METHODOLOGY.md](METHODOLOGY.md)
-- Design: [DESIGN.md](DESIGN.md)
-- Choices: [CHOICES.md](CHOICES.md)
-- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
-- License: code [MIT](LICENSE), data [CC BY-SA 4.0](LICENSE-DATA)
+- Live site: [https://akhilm06.github.io/doma/](https://akhilm06.github.io/doma/).
+- Methodology: [METHODOLOGY.md](METHODOLOGY.md).
+- Design: [DESIGN.md](DESIGN.md).
+- Choices: [CHOICES.md](CHOICES.md).
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md).
+- License: code [MIT](LICENSE), data [CC BY-SA 4.0](LICENSE-DATA).
 
 ## What is doma?
 Much of ancient literature has been lost to history. For example, around 70-90 plays are attributed to Aeschylus. We only have access to seven of them, with the authorship of one, Prometheus Bound, being disputed. The existence of these lost works is known solely through fragments, quotations, references, et cetera. 
@@ -72,9 +73,9 @@ doma is primarily a conceptual innovation enabled by technological innovation. I
 - Ithaca, Aeneas, Vesuvius Challenge.
   - AI that restores or reads damaged ancient text. Adjacent to doma, not the same problem.
 - Lost Plays Database.
-  - doma’s closest analog, though not in subject (English drama). doma applies its model to antiquity.
+  - doma's closest analog, though not in subject (English drama). doma applies its model to antiquity.
 - Matthew Wright, The Lost Plays of Greek Tragedy (Bloomsbury, two volumes).
-  - doma’s closest analog in terms of subject, but in print form. doma provides a robust open data layer and novel form factor.
+  - doma's closest analog in terms of subject, but in print form. doma provides a robust open data layer and novel form factor.
 - Wikipedia.
   - Strong for famous lost works, otherwise sparse or nonexistent.
     
@@ -134,7 +135,7 @@ I plan to learn Ancient Greek as well, and I'm looking for classicists willing t
 
 For more context on doma, please visit other md files in repository. 
 
-Email Me: akhil.muthyala@outlook.com
+Email Me: akhil.muthyala@outlook.com.
 
 ### Right Now
 

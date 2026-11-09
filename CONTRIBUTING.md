@@ -14,7 +14,7 @@ Thank you.
 
 ## Submit evidence
 
-The process of collecting evidence is doma's chokepoint, in both time and effort. Eventually, it needs to adopt a model of contribution similar to Wikipedia.
+The process of collecting evidence is doma's bottleneck, in both time and effort. Eventually, it needs to adopt a model of contribution similar to Wikipedia.
 
 If you are knowledgeable in this domain, and would like to contribute, I would be grateful.
 

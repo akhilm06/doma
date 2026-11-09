@@ -32,7 +32,7 @@ Borrow the feeling, never the imagery. No space visuals.
 See the concept sketch at the top of [README](README.md).
 
 - General:
-  - Thin top bar that top left contains logo, then pages. Right side has binary toggles or drop downs.
+  - Thin top bar that contains logo top left, then pages. Right side has binary toggles or dropdowns.
   - Canvas beneath.
   - doma is a reddish color. Panel background is black tinted blue. 
 - Library
