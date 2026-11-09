@@ -35,15 +35,21 @@ See the concept sketch at the top of [README](README.md).
   - Thin top bar that top left contains logo, then pages. Right side has binary toggles or drop downs.
   - Canvas beneath.
   - doma is a reddish color. Panel background is black tinted blue. 
-- Interactive Node Graph (ING) Page
-  - Nodes are round.
-  - Known works: olive green with a solid border.
-  - Lost works: pale blue with a dashed border.
-  - Edges visually linked.
-  - Edges are clickable within the profile as links.
-  - Top right: search bar with tab that pulls down for filters. 
-  - Beneath search bar: where profile content is displayed. Click node to activate. 
-  - Bottom left: key. 
 - Library
   - The data set backbone, now as an instrument.
   - Feels like Omarchy's activity monitor: dense and granular and valuable. 
+- Interactive Node Graph (ING) Page
+  - ING represents lost works in a pale blue color with dashed border.
+  - ING represents known works in an olive green color with solid border.
+  - ING displays known and lost works together, enabling spatial navigation. Click to enter.
+  - ING contains four types of lost works (each will be made visually distinct; see table below).
+  - ING visually displays edges to represent relation (direct quote, commentary, et cetera).
+  - ING visually displays how much of a lost work is known through node opacity and size.
+  - ING creates a visceral display of how much of a corpus has been lost, making the gaps, the lacunae, the focal point.
+
+  | Lost work type | Title   | Author  |
+  |----------------|---------|---------|
+  | Attested       | known   | known   |
+  | Orphaned       | known   | unknown |
+  | Strayed        | unknown | known   |
+  | Adespota       | unknown | unknown |

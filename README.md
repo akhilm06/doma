@@ -4,8 +4,6 @@
 
 δῶμα -- Ancient Greek for house.
 
-Docs -- [methodology](METHODOLOGY.md), [design](DESIGN.md), [choices](CHOICES.md), [contributing](CONTRIBUTING.md).
-
 > pre-alpha: seeking funding.
 
 ```
@@ -39,6 +37,13 @@ Docs -- [methodology](METHODOLOGY.md), [design](DESIGN.md), [choices](CHOICES.md
 ```
 
 Concept art.
+
+## Documentation
+- Methodology: [METHODOLOGY.md](METHODOLOGY.md)
+- Design: [DESIGN.md](DESIGN.md)
+- Choices: [CHOICES.md](CHOICES.md)
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- License: code [MIT](LICENSE), data [CC BY-SA 4.0](LICENSE-DATA)
 
 ## What is doma?
 Most of ancient literature has been lost to history. For example, Aristotle wrote an estimated 200 works. We only have access to 31. The existence of these lost works is known to us through fragments, quotations, references, et cetera. 
@@ -74,25 +79,6 @@ None I found turns evidence for antiquity's lost works into cited, living profil
 
 doma does, built on top of a novel open data layer and concordance table that supports independent research and future digital humanities projects, while also keeping the knowledge work accessible to non-scholars: autodidacts, students, and curious people.
 
-## Interactive Node Graph (ING)
-- ING represents lost works in a pale blue color with dashed border.
-- ING represents known works in an olive green color with solid border.
-- ING displays known and lost works together, enabling spatial navigation. Click to enter.
-- ING contains four types of lost works (each will be made visually distinct; see table below).
-- ING visually displays edges to represent relation (direct quote, commentary, et cetera).
-- ING visually displays how much of a lost work is known through node opacity and size.
-- ING creates a visceral display of how much of a corpus has been lost, making the gaps, the lacunae, the focal point.
-
-| Lost work type | Title   | Author  |
-|----------------|---------|---------|
-| Attested       | known   | known   |
-| Orphaned       | known   | unknown |
-| Strayed        | unknown | known   |
-| Adespota       | unknown | unknown |
-
-## Methodology
-See [methodology](METHODOLOGY.md).
-
 ## Roadmap
 - Milestone one (minimum lovable product):
   - Month one (data foundations):
@@ -120,20 +106,6 @@ See [methodology](METHODOLOGY.md).
   - Be used by real people: autodidacts, students, and professors.
   - Enable new insights and novel digital humanities research.
 
-## Main Risks
-- Fragment epistemology.
-- Scholarly trust and error/drift.
-- Copyrighted material access.
-
-Each is addressed in [methodology](METHODOLOGY.md). 
-
-## License
-- Code: [MIT](LICENSE)
-- Data: [CC BY-SA 4.0](LICENSE-DATA)
-
-## Contributing
-See [contributing](CONTRIBUTING.md).
-
 ## About
 
 I came up with the concept for doma about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for doma. 
@@ -155,7 +127,9 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence. Funding makes doma my full-time work. 
 
-My living costs are minimal, so funds go directly into the work. 
+My living costs are minimal, so funds go directly into the work. I plan to learn Ancient Greek as well, and I'm looking for classicists willing to advise. 
+
+For more context, please visit other md files in repository. 
 
 Email Me: akhil.muthyala@outlook.com
 

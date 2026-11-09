@@ -15,11 +15,19 @@ Let's work our way up.
 - Prioritize ultra simplicity and robustness and versatility. No clever implementations.
 - Human in the loop: doma believes humans and artificial intelligences serve unique complementary functions, and harnesses the ability of both. Specialist humans have authority over AI.
 
+## Main Risks
+- Fragment epistemology.
+- Scholarly trust and error/drift.
+- Copyrighted material access.
+
+Each is addressed below.
+
 ## Milestone One Tech Stack
 - Data: one JSON file per record, in git.
 - Schema: Pydantic.
 - Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
 - Site: Python + Jinja2 (static).
+- Graph: NetworkX + SVG.
 - Hosting: static, host-independent.
 
 ## Built On
@@ -28,7 +36,6 @@ Let's work our way up.
 - Perseus Digital Library and First1KGreek.
 - papyri.info.
 - CLTK (Classical Language Toolkit).
-- sigma.js + graphology.
 
 ## Sourcing and Copyright
 - Evidence is curated by human hand.
