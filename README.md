@@ -84,31 +84,29 @@ None I found turns evidence for antiquity's lost works into cited, living profil
 doma does, built on top of a novel open data layer and concordance table that supports independent research and future digital humanities projects, while also keeping the knowledge work accessible to non-scholars: autodidacts, students, and curious people.
 
 ## Roadmap
-- Milestone one (minimum lovable product):
+- Milestone one (minimum lovable product, technical foundation):
   - Month one (data foundations):
     - Deliverable: working data set and public methodology document.
     - Scope: sections Sourcing and Copyright through Initial Ingestion, within [methodology](METHODOLOGY.md).
   - Month two (profile synthesis):
-    - Deliverable: Aeschylus's profiles and published evaluation results.
+    - Deliverable: profiles for a seed set of Aeschylus's lost plays, and published evaluation results.
     - Scope: section Lost Work Node and Profile Synthesis, within [methodology](METHODOLOGY.md).
   - Month three (ING and launch):
-    - Deliverable: public alpha covering Aeschylus.
+    - Deliverable: public alpha with all of Aeschylus's titles on the graph, seed plays fully profiled.
     - Scope: implement the design, within [design](DESIGN.md).
   - Concurrently:
     - Research and develop domain knowledge.
     - Run outreach on classicists for advisor role and join community.
     - Continue to iterate on and refine features and concepts.
     - Learn Ancient Greek.
-- Milestone two:
-  - Deliverable: public alpha covering all three tragedians.
-- Future deliverables:
-  - Timeline and shelf format.
-  - Frames: preset filters of ING users can explore.
-  - Community can submit evidence and receive recognition for contribution.
-- Long term goals:
+- After:
   - Hand doma off to an institution that can sustain it.
+    - Allow scholars to contribute by submitting evidence, in a model akin to Wikipedia.
   - Be used by real people: autodidacts, students, and professors.
   - Enable new insights and novel digital humanities research.
+- Additional Functionality:
+  - Timeline and shelf format.
+  - Frames: preset filters of ING users can explore.
 
 ## About
 
