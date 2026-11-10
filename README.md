@@ -112,9 +112,17 @@ doma does, built on top of a novel open data layer and concordance table that su
 
 ## About
 
+### About Me
+
 I came up with the concept for doma about six months ago. I was listening to some podcast, and offhand, the host or guest mentioned how the majority of ancient literature has been lost to history. This induced a deep level of sadness within me, and, as I continued to dwell on that feeling, it bloomed into the concept for doma. 
 
 Now, half a year later still, I just can't seem to get doma out of my head, and I'd like to dedicate a portion of my youth working on a project that contributes something of real intellectual value.  
+
+I plan to learn Ancient Greek as well, and I'm looking for classicists willing to advise. 
+
+For more context on doma, please visit other md files in repository. 
+
+Email Me: akhil.muthyala@outlook.com.
 
 ### Prior Prototype
 
@@ -126,16 +134,6 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 <img width="1920" height="991" alt="Lacuna prototype" src="https://github.com/user-attachments/assets/acb04bc1-e203-4ced-8868-c12032e0584f" />
 
 </details>
-
-### About Me
-
-I'm 20, and attended WashU for a couple semesters, and then worked on Gr0ve: a startup that transformed open-text feedback into context-aware and actionable business intelligence.
-
-I plan to learn Ancient Greek as well, and I'm looking for classicists willing to advise. 
-
-For more context on doma, please visit other md files in repository. 
-
-Email Me: akhil.muthyala@outlook.com.
 
 ### Right Now
 
