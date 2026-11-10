@@ -91,7 +91,7 @@ doma does, built on top of a novel open data layer and concordance table that su
   - Month two (profile synthesis):
     - Deliverable: profiles for a seed set of Aeschylus's lost plays, and published evaluation results.
     - Scope: section Lost Work Node and Profile Synthesis, within [methodology](METHODOLOGY.md).
-  - Month three (ING and launch):
+  - Month three (interactive node graph and launch):
     - Deliverable: public alpha with all of Aeschylus's titles on the graph, seed plays fully profiled.
     - Scope: implement the design, within [design](DESIGN.md).
   - Concurrently:
@@ -106,7 +106,7 @@ doma does, built on top of a novel open data layer and concordance table that su
   - Enable new insights and novel digital humanities research.
 - Additional Functionality:
   - Timeline and shelf format.
-  - Frames: preset filters of ING users can explore.
+  - Frames: preset filters of the interactive node graph that users can explore.
 
 ## About
 
