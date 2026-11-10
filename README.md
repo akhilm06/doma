@@ -1,8 +1,8 @@
 # doma
 
-*An open-source atlas of synthesized lost work profiles from classical antiquity.*
+*an open-source atlas of synthesized lost work profiles from classical antiquity.*
 
-δῶμα -- Ancient Greek for house.
+δῶμα -- ancient Greek for house.
 
 > pre-alpha.
 
