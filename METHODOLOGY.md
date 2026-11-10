@@ -7,8 +7,7 @@ I don't expect lost work profiles to contain all evidences at first, as they wil
 Let's work our way up.
 
 ## Principles
-- Every granular aspect of a claim or decision must be rigorously cited with a source. Do not rely on model data for context.
-  - Sources can be evidence, which make up the content of a profile, or Wikipedia, which grounds the why of a decision in something past model training data. Interpretation is not an exception.
+- Every granular aspect of a claim or decision must be rigorously cited with evidence. Do not rely on model data for context.
 - Conservative disposition: err towards less, always. Allow thinness.
 - Embrace ambiguity and fuzziness. Uncertainty is shown, no speculation dressed up as confident fact.
 - Write plainly and encyclopedically: no flourish or rhetoric.
@@ -41,7 +40,6 @@ Each is addressed below.
 - Evidence is curated by human hand.
 - Evidence is sourced solely from public-domain and openly licensed material.
 <!-- - Modern editions, such as Radt, TrGF are used as an index, not reproduced. -->
-- Wikipedia is cited by permanent revision link and access date, never by live article.
 
 ## Records
 - Lost work: id, title, author, genre, date of composition.
@@ -70,9 +68,7 @@ Each is addressed below.
 ## Lost Work Node and Profile Synthesis
 
 ### Profile form
-- Profiles include introduction, concepts, contested, terse interpretation sections, et cetera.
-  - Introduction and interpretation sections are allowed to additionally draw from Wikipedia, with sources marked.
-  - Profiles are written with a strict form per section, including an uncertainty system.
+- Profiles include introduction, concepts, contested, et cetera, with a strict form and uncertainty system.
 - Profile length scales with evidence. Thin profiles are celebrated.
 - Informed choices are logged in the decision log.
 
@@ -80,7 +76,7 @@ Each is addressed below.
 - Will delve further in month two.
 
 ### Decision log
-- Decision logs record written justifications of any informed choice with links to relevant sources (evidence or Wikipedia).
+- Decision logs record written justifications of any informed choice with links to relevant evidences.
 - Decisions can be flagged for human review.
 - Humans can use decision log, but are subject to the same rigor and level of transparency.
 

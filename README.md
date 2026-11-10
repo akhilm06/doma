@@ -89,11 +89,11 @@ doma does, built on top of a novel open data layer and concordance table that su
     - Deliverable: working data set and public methodology document.
     - Scope: sections Sourcing and Copyright through Initial Ingestion, within [methodology](METHODOLOGY.md).
   - Month two (profile synthesis):
-    - Deliverable: profiles for a seed set of Aeschylus's lost plays, and published evaluation results.
+    - Deliverable: profiles for a seed set of Aeschylus's lost plays, and published evaluation results against Wright's book.
     - Scope: section Lost Work Node and Profile Synthesis, within [methodology](METHODOLOGY.md).
   - Month three (interactive node graph and launch):
     - Deliverable: public alpha with all of Aeschylus's titles on the graph, seed plays fully profiled.
-    - Scope: implement the design, within [design](DESIGN.md).
+    - Scope: implement the design, within [design](DESIGN.md). Expert review by classicist.
   - Concurrently:
     - Research and develop domain knowledge.
     - Run outreach on classicists for advisor role and join community.
