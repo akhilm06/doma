@@ -133,10 +133,15 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 
 </details>
 
+### Things I've Learned
+- The significance of doma having a human in the loop. At first, I figured human involvement would end after providing the data, but now, humans are involved in practically every step. 
+- How incredibly difficult sourcing evidence is. I thought because the texts were millennia old, copyright wouldn't be a factor! But the modern editions and translations usually are. I've scoped down considerably, and now rely on domain experts to aid in fully fleshing out the data set. If one thing provides lasting value, it'll be the open data layer.
+
 ### Right Now
 
 - Applying for grants (main focus).
 - Learning and iterating on methodology and month one's data foundations.
 - Learning about contemporary tools and approaches. 
 - Brushing up on specific technical skills. 
-- Iterating on doma concept.  
+- Iterating on doma concept.
+
