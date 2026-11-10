@@ -1,8 +1,8 @@
 # Methodology
 
-> Early concept, not near finalized, and a deliverable of month one. High leverage product decisions are downstream of this significant document. Expect this to change substantially, and get gradually more fleshed out, as I progress in the completion of doma.
+> Early concept, not near finalized, and a deliverable of month one. High leverage product decisions are downstream of this significant document. Quellenforschung is a centuries-old field dedicated to source tracing. Expect this to change substantially, and get gradually more fleshed out, as I progress in the completion of doma.
 
-Quellenforschung is a centuries-old field dedicated to source tracing. I don't expect to have an immediate, neat answer.
+I don't expect lost work profiles to contain all evidences at first, as they will round out over time with contributions from classicists. Milestone one's goals are mostly technical, providing a foundation for scholars to build off of.
 
 Let's work our way up.
 
@@ -40,7 +40,7 @@ Each is addressed below.
 ## Sourcing and Copyright
 - Evidence is curated by human hand.
 - Evidence is sourced solely from public-domain and openly licensed material.
-- Modern editions, such as Radt, TrGF are used as an index, not reproduced.
+<!-- - Modern editions, such as Radt, TrGF are used as an index, not reproduced. -->
 - Wikipedia is cited by permanent revision link and access date, never by live article.
 
 ## Records
