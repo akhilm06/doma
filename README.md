@@ -39,7 +39,7 @@
 Concept art.
 
 ## Documentation
-- Live site: [https://akhilm06.github.io/doma/](https://akhilm06.github.io/doma/).
+<!-- - Live site: [https://akhilm06.github.io/doma/](https://akhilm06.github.io/doma/). -->
 - Methodology: [METHODOLOGY.md](METHODOLOGY.md).
 - Design: [DESIGN.md](DESIGN.md).
 - Choices: [CHOICES.md](CHOICES.md).
