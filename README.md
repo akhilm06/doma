@@ -87,7 +87,7 @@ doma does, built on top of a novel open data layer and concordance table that su
 - Milestone one (minimum lovable product, technical foundation):
   - Month one (data foundations):
     - Deliverable: working data set and public methodology document.
-    - Scope: sections Sourcing and Copyright through Initial Ingestion, within [methodology](METHODOLOGY.md).
+    - Scope: sections Sourcing and Copyright through Evidence, within [methodology](METHODOLOGY.md).
   - Month two (profile synthesis):
     - Deliverable: profiles for a seed set of Aeschylus's lost plays, and published evaluation results against Wright's book.
     - Scope: section Lost Work Node and Profile Synthesis, within [methodology](METHODOLOGY.md).
@@ -105,6 +105,7 @@ doma does, built on top of a novel open data layer and concordance table that su
   - Be used by real people: autodidacts, students, and professors.
   - Enable new insights and novel digital humanities research.
 - Additional Functionality:
+  - Interpretation sections once scholars are able to contribute it.
   - Timeline and shelf format.
   - Frames: preset filters of the interactive node graph that users can explore.
 
@@ -136,6 +137,7 @@ doma began as Lacuna, a basic prototype ([repo](https://github.com/akhilm06/Lacu
 ### Things I've Learned
 - The significance of doma having a human in the loop. At first, I figured human involvement would end after providing the data, but now, humans are involved in practically every step. 
 - How incredibly difficult sourcing evidence is. I thought because the texts were millennia old, copyright wouldn't be a factor! But the modern editions and translations usually are. I've scoped down considerably, and now rely on domain experts to aid in fully fleshing out the data set. If one thing provides lasting value, it'll be the open data layer.
+- After fleshing out the concept so thoroughly, I've become aware that past concept and technical implementation, the lasting success of doma relies on the successful handoff to scholars who hold decades of deep domain knowledge, with an interest in nurturing this project long term.
 
 ### Right Now
 

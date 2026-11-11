@@ -42,14 +42,7 @@ See the concept sketch at the top of [README](README.md).
   - ING represents lost works in a pale blue color with dashed border.
   - ING represents known works in an olive green color with solid border.
   - ING displays known and lost works together, enabling spatial navigation. Click to enter.
-  - ING contains four types of lost works (each will be made visually distinct; see table below).
+  - ING contains three types of lost works (each will be made visually distinct; see [methodology](METHODOLOGY.md#lost-work-types)).
   - ING visually displays edges to represent relation (direct quote, commentary, et cetera).
   - ING visually displays how much of a lost work is known through node opacity and size.
   - ING creates a visceral display of how much of a corpus has been lost, making the gaps, the lacunae, the focal point.
-
-  | Lost work type | Title   | Author  |
-  |----------------|---------|---------|
-  | Attested       | known   | known   |
-  | Orphaned       | known   | unknown |
-  | Strayed        | unknown | known   |
-  | Adespota       | unknown | unknown |
