@@ -19,11 +19,11 @@ Milestone one is mostly technical, providing a foundation for scholars to build 
 
 ## Milestone One Tech Stack
 - Data: one JSON file per record, in git.
-- Schema: Pydantic.
-- Pipeline: Python + Claude API. Managed with uv, linted with ruff, tested with pytest.
-- Site: Python + Jinja2 (static).
-- Graph: NetworkX + SVG.
-- Hosting: static, host-independent.
+- Schema: Pydantic (exports JSON Schema).
+- Pipeline: Python + AI API. Managed with uv, linted with ruff, tested with pytest.
+- Site: HTML, CSS, JS.
+- Graph: force-graph.
+- Hosting: GitHub Pages.
 
 ## Built On
 - Public-domain editions of quoting authors (Stobaeus, Athenaeus, et cetera).
